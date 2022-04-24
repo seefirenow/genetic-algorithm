@@ -23,7 +23,7 @@
 }
 
 .Form-wrapper label {
-  margin: 0 2%;
+  margin: 0 1.5%;
   font-size: calc(10px + 1vmin);
 }
 .Form-wrapper input,
@@ -37,11 +37,11 @@ select {
 }
 
 .Form-wrapper button {
-  margin-left: 4%;
-  width: 4%;
-  height: 4vw;
+  margin-left: 2%;
+  width: 80px;
+  height: 80px;
   cursor: pointer;
-  font-size: calc(10px + 1vmin);
+  font-size: 2rem;
   border: 4px solid brown;
   border-radius: 20px;
 }
