@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/genetic-algorithm/static/css/main.5a10e551.css",
+    "main.css": "/genetic-algorithm/static/css/main.c4cfbae8.css",
     "main.js": "/genetic-algorithm/static/js/main.279cdc7d.js",
     "static/js/787.5afcacd8.chunk.js": "/genetic-algorithm/static/js/787.5afcacd8.chunk.js",
     "index.html": "/genetic-algorithm/index.html",
-    "main.5a10e551.css.map": "/genetic-algorithm/static/css/main.5a10e551.css.map",
+    "main.c4cfbae8.css.map": "/genetic-algorithm/static/css/main.c4cfbae8.css.map",
     "main.279cdc7d.js.map": "/genetic-algorithm/static/js/main.279cdc7d.js.map",
     "787.5afcacd8.chunk.js.map": "/genetic-algorithm/static/js/787.5afcacd8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a10e551.css",
+    "static/css/main.c4cfbae8.css",
     "static/js/main.279cdc7d.js"
   ]
 }
